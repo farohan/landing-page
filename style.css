@@ -1,0 +1,91 @@
+.app {
+    border: 20px solid black;
+    height: 450px;
+    width: 300px;
+    overflow: auto;
+    margin-left: 460px;
+    margin-top: 45px;
+    border-radius: 25px;
+    padding: 20px;
+    background-image: url(https://wallpaperaccess.com/full/790994.jpg);
+    background-repeat: no-repeat;
+    background-size: 335px 495px; 
+  }
+
+  li {
+    text-align: justify;
+  }
+
+  .srch {
+    text-align: center;
+  }
+
+  .prgm {
+    text-align: center;
+  }
+
+  .schl {
+    text-align: center;
+  }
+
+  .rare {
+    text-align: center;
+  }
+
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 42.5px;
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+  }
+
+  .ulsrch {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ulprgm {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ulschl {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ulrare {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+  }
+
+  div#child {
+    padding: 8px; 
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin-top: 7.5px;
+    opacity: 1.0;
+  }
+
+  div#child2 {
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin-top: 7.5px;
+    opacity: 1.0;
+    padding-left: 12px;
+  }
+
+
