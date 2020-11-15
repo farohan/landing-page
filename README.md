@@ -1,6 +1,21 @@
 ## Welcome to my Landing Page
 
-From websites like Google to W3Schools to even Amazon, this is a website where you can access the most frequently visited sites.
+This is a website where you can access the top 23 most commonly used and important websites, such as:
+
+ - Google
+ - Wikipedia 
+ - W3Schools
+ - MDN
+ - Github 
+ - Google Classroom 
+ - BBC News 
+ - CNN News 
+ - The Wall Street Journal
+ - Youtube
+ - Amazon
+ - And much more!
+
+So whether you're a kid or an adult, I hope you enjoy my website!
 
 **Technology Used:**
 
