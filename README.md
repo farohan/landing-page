@@ -15,7 +15,7 @@ This is a website where you can access the top 23 most commonly used and importa
  - Amazon
  - And much more!
 
-So whether you're a kid or an adult, I hope you enjoy my website!
+So whether you're a kid or an adult, I hope you enjoy using my website!
 
 **Technology Used:**
 
