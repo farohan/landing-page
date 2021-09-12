@@ -17,7 +17,9 @@ This is a website where you can access the top 23 most commonly used and importa
 
 So whether you're a kid or an adult, I hope you enjoy using my website!
 
-**Technology Used:**
+**Languages Used:**
 
 HTML5, CSS3
+
+Link to website: https://farohan.github.io/landing-page/
 
